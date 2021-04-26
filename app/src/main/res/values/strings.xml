@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hw</string>
+
+
+    <string-array name="priority_array">
+        <item> </item>
+        <item>Graduate</item>
+        <item>4th</item>
+        <item>3rd</item>
+        <item>2nd</item>
+        <item>1st</item>
+    </string-array>
+</resources>
